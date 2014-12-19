@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ReportsResearch</string>
+    <string name="action_settings">Settings</string>
+    <string name="demo1">[R:品牌 季节][C:波段 上下装 类别][D:销量 数比 已订款 总款数 已定款比]</string>
+    <string name="demo2">[R:(无)][C:波段 上下装 类别][D:销量 数比]</string>
+    <string name="demo3">[R:品牌 季节 类别][C:无][D:销量 数比]</string>
+    <string name="demo4">[R:无][C:无][D:销量 数比]</string>
+
+</resources>
